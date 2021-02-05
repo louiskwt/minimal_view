@@ -1,0 +1,15 @@
+{
+    "name": "Simple AdBlocker",
+    "version": "0.1",
+    "description": "A Simple Ad blocker created by Louis T",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["script.js"]
+    },
+    "icons": {
+        "16": "icons/logo_16x16.png",
+        "32": "icons/logo_32x32.png",
+        "192": "icons/logo_192x192.png"
+    },
+    "manifest_version": 2
+}
