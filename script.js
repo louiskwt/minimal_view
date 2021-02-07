@@ -4,6 +4,7 @@ const filteredList = [
 	"*://*.googlesyndication.com/*",
 	"*://*.google-analytics.com/*",
     "*://*.adtechus.com/*",
+	"*://*.adsrvr.org/*",
     "*://choices.trustarc.com/*",
     "*://*.goo.com/*",
 	"*://creative.ak.fbcdn.net/*",
@@ -11,6 +12,7 @@ const filteredList = [
 	"*://*.exponential.com/*",
 	"*://*.quantserve.com/*",
 	"*://*.scorecardresearch.com/*",
+	"*://*.price.com.hk/scripts*",
 	"*://*.zedo.com/*",
 ]
 
